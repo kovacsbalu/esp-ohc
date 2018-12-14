@@ -1,0 +1,3 @@
+#define WIFI_NAME "WIFI-SSID";
+#define WIFI_PASSWORD "WIFI-PASSWD";
+#define MDNS_NAME "workhour";
